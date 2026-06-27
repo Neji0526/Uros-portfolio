@@ -148,9 +148,9 @@
     cvFileName: "Madhan_Resume.pdf",
     cvFallbackText: `Madhan Kumar - Computer Science Engineer
 
-📧 Contact: madhankumar8874@gmail.com
-📱 Phone: +91 9344290363
-📍 Location: Tirunelveli, Tamil Nadu, India
+📧 Contact: uros.gligorijevic@outlook.com
+📱 Phone: +380 97 536 12 87
+📍 Location: Lajkovac, Serbia
 
 🎓 EDUCATION:
 • Bachelor of Engineering - Computer Science (2023 - Present)
@@ -478,7 +478,7 @@
           from_name: name,
           from_email: email,
           message: message,
-          to_email: "madhankumar8874@gmail.com",
+          to_email: "uros.gligorijevic@outlook.com",
           reply_to: email,
           date: new Date().toLocaleString(),
         };
@@ -497,7 +497,7 @@
       } catch (error) {
         console.error("Email error:", error);
         feedbackDiv.innerHTML =
-          '<span style="color:#f87171;">❌ Failed to send. Please email directly: madhankumar8874@gmail.com</span>';
+          '<span style="color:#f87171;">❌ Failed to send. Please email directly: uros.gligorijevic@outlook.com</span>';
       } finally {
         submitBtn.innerHTML = originalBtnText;
         submitBtn.disabled = false;
