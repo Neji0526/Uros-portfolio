@@ -904,6 +904,104 @@ const App = () => {
                                     Visit Site <i className="fas fa-arrow-right"></i>
                                 </a>
                             </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-robot"></i>
+                                </div>
+                                <h3>MarketingBlocks.ai</h3>
+                                <p>
+                                    AI-powered marketing automation platform delivering content generation,
+                                    campaign personalization, and creative growth tools for digital teams.
+                                </p>
+                                <a href="https://marketingblocks.ai" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-shoe-prints"></i>
+                                </div>
+                                <h3>Manitobah.com</h3>
+                                <p>
+                                    Premium footwear e-commerce platform offering curated collection
+                                    with seamless shopping experience and product discovery.
+                                </p>
+                                <a href="https://www.manitobah.com/" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-candy-cane"></i>
+                                </div>
+                                <h3>Chocolate Alchemy Shop</h3>
+                                <p>
+                                    Artisanal chocolate retail platform featuring handcrafted confections,
+                                    gift collections, and specialized chocolate products.
+                                </p>
+                                <a href="https://shop.chocolatealchemy.com/" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-server"></i>
+                                </div>
+                                <h3>Tempest Digital Engine</h3>
+                                <p>
+                                    Enterprise infrastructure and engine platform providing
+                                    scalable digital solutions and performance optimization tools.
+                                </p>
+                                <a href="https://engine.tempestdigital.com.au/" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-brain"></i>
+                                </div>
+                                <h3>HeroType Quiz</h3>
+                                <p>
+                                    Interactive personality and type assessment quiz platform
+                                    providing personalized insights and character profiling.
+                                </p>
+                                <a href="https://herotypequiz.com/quiz" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-megaphone"></i>
+                                </div>
+                                <h3>ShoutMeLoud.com</h3>
+                                <p>
+                                    Digital marketing and blogging platform featuring tutorials,
+                                    strategies, and industry insights for content creators.
+                                </p>
+                                <a href="https://www.shoutmeloud.com/" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+
+                            <div className="project-card">
+                                <div className="project-icon">
+                                    <i className="fas fa-mobile-alt"></i>
+                                </div>
+                                <h3>TheSwyedApp.com</h3>
+                                <p>
+                                    Mobile lifestyle application delivering social features,
+                                    community engagement, and personalized user experiences.
+                                </p>
+                                <a href="https://theswayedapp.com/" target="_blank" rel="noreferrer" className="project-btn">
+                                    Visit Site <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </section>
